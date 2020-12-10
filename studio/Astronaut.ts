@@ -1,5 +1,5 @@
 import { Payload } from './Payload';
-//let payload: Payload;
+
 export class Astronaut implements Payload {
 
     massKg: number;
