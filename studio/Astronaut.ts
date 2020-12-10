@@ -1,4 +1,5 @@
 import { Payload } from './Payload';
+import { Rocket } from './Rocket';
 
 export class Astronaut implements Payload {
 
